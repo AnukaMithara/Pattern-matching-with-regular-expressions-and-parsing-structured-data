@@ -1,0 +1,6 @@
+From: Student two < student2@eng.jfn.ac.lk >
+Sent: Monday, September 26, 2022 4:28:38 PM
+To: Instructor two < instructor2@eng.jfn.ac.lk >
+Subject: Lab Reschedule
+Good morning, I’m writing this to request for a lab reschedule for EC5020. It is for lab02, “Pattern matching with regular expressions”.
+Thank you

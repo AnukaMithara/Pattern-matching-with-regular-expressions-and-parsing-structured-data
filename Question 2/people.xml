@@ -1,0 +1,32 @@
+<?xml version = "1.0"?>
+<people>
+    <person id = "1">
+        <lastname>Doe</lastname>
+        <firstname>John</firstname>
+    </person>
+    <person id = "2" >
+        <lastname>Smith</lastname>
+        <firstname>Jim</firstname>
+    </person>
+    <person id = "3" >
+        <lastname>Heshan</lastname>
+        <firstname>Sachira</firstname>
+    </person>
+    <person id = "4" >
+        <lastname>Lakwindu</lastname>
+        <firstname>Banula</firstname>
+    </person>
+    <person id = "5" >
+        <lastname>Randima</lastname>
+        <firstname>Lahiru</firstname>
+    </person>
+    <person id = "6" >
+        <lastname>Channa</lastname>
+        <firstname>Nadun</firstname>
+    </person>
+    <person id = "7" >
+        <lastname>Kawsala</lastname>
+        <firstname>Yasiru</firstname>
+    </person>
+</people>
+   
